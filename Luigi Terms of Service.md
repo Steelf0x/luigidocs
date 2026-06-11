@@ -6,44 +6,70 @@ By adding Luigi Core to your Discord server or interacting with the bot in any D
 These Terms apply to all users of Luigi Core, including server administrators, moderators, and regular members who interact with the bot.
 ## 2. Description of Service
 Luigi Core is a Discord application ("bot") developed and operated by HalvedLabs. The bot provides the following general categories of functionality:
+
 •	Automated server management and moderation tools.
+
 •	Interactive commands accessible to server members.
+
 •	Data processing and response generation within Discord.
+
 •	Optional integrations with third-party services as documented.
+
 Features may be added, modified, or removed at any time without prior notice. The bot is provided as-is and is subject to Discord's own Terms of Service and Community Guidelines.
 ## 3. Eligibility and Account Requirements
 To use this bot, you must:
+
 •	Be at least 13 years of age or meet the minimum age required by Discord's Terms of Service in your jurisdiction.
+
 •	Have a valid Discord account in good standing.
+
 •	Comply with all applicable laws and regulations in your jurisdiction.
+
 •	Have the authority to agree to these Terms on behalf of any server you administer.
+
 If you are a server administrator adding the bot to a server, you represent that you have the right and authority to do so and to bind the server's members to these Terms.
 ## 4. Permitted and Prohibited Uses
 ### 4.1 Permitted Uses
 You may use the bot for lawful purposes consistent with Discord's platform and community guidelines, including personal, community, and non-commercial applications unless otherwise specified in a separate commercial license.
 ### 4.2 Prohibited Uses
 You may NOT use the bot to:
+
 •	Violate any applicable local, state, national, or international law or regulation.
+
 •	Harass, threaten, abuse, or harm other Discord users.
+
 •	Distribute spam, malware, phishing content, or unsolicited advertising.
+
 •	Attempt to reverse-engineer, decompile, or extract the source code of the bot.
+
 •	Circumvent rate limits, abuse the bot's infrastructure, or conduct denial-of-service attacks.
+
 •	Scrape or collect data from other users without their explicit consent.
+
 •	Impersonate any person, organization, or entity.
+
 •	Engage in any activity that violates Discord's Terms of Service or Community Guidelines.
 
 Violations may result in immediate removal of bot access from your server and/or reporting to Discord Trust & Safety.
 ## 5. Data Collection and Privacy
 ### 5.1 Data We Collect
 While providing the service, the bot may collect and store the following types of data:
+
 •	Discord User IDs and Server (Guild) IDs.
+
 •	Message content submitted directly as commands or inputs to the bot.
+
 •	Server configuration settings set by administrators.
+
 •	Interaction logs for debugging and abuse prevention purposes.
+
 ### 5.2 How We Use Your Data
 Collected data is used solely to:
+
 •	Provide and improve bot functionality.
+
 •	Diagnose errors and maintain service stability.
+
 •	Enforce these Terms and prevent abuse.
 
 We do not sell, rent, or share your data with third parties for marketing purposes. Data may be shared with service providers (e.g., hosting infrastructure) only to the extent necessary to operate the bot.
